@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Numerology Meaning of Name\Numerology Meaning of Name\bin\Debug\net6.0\Numerology Meaning of Name.exe
+C:\Users\DELL\source\repos\Numerology Meaning of Name\Numerology Meaning of Name\bin\Debug\net6.0\Numerology Meaning of Name.deps.json
+C:\Users\DELL\source\repos\Numerology Meaning of Name\Numerology Meaning of Name\bin\Debug\net6.0\Numerology Meaning of Name.runtimeconfig.json
+C:\Users\DELL\source\repos\Numerology Meaning of Name\Numerology Meaning of Name\bin\Debug\net6.0\Numerology Meaning of Name.dll
+C:\Users\DELL\source\repos\Numerology Meaning of Name\Numerology Meaning of Name\bin\Debug\net6.0\Numerology Meaning of Name.pdb
+C:\Users\DELL\source\repos\Numerology Meaning of Name\Numerology Meaning of Name\obj\Debug\net6.0\Numerology Meaning of Name.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Numerology Meaning of Name\Numerology Meaning of Name\obj\Debug\net6.0\Numerology Meaning of Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Numerology Meaning of Name\Numerology Meaning of Name\obj\Debug\net6.0\Numerology Meaning of Name.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Numerology Meaning of Name\Numerology Meaning of Name\obj\Debug\net6.0\Numerology Meaning of Name.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Numerology Meaning of Name\Numerology Meaning of Name\obj\Debug\net6.0\Numerology Meaning of Name.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Numerology Meaning of Name\Numerology Meaning of Name\obj\Debug\net6.0\Numerology Meaning of Name.dll
+C:\Users\DELL\source\repos\Numerology Meaning of Name\Numerology Meaning of Name\obj\Debug\net6.0\refint\Numerology Meaning of Name.dll
+C:\Users\DELL\source\repos\Numerology Meaning of Name\Numerology Meaning of Name\obj\Debug\net6.0\Numerology Meaning of Name.pdb
+C:\Users\DELL\source\repos\Numerology Meaning of Name\Numerology Meaning of Name\obj\Debug\net6.0\Numerology Meaning of Name.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Numerology Meaning of Name\Numerology Meaning of Name\obj\Debug\net6.0\ref\Numerology Meaning of Name.dll

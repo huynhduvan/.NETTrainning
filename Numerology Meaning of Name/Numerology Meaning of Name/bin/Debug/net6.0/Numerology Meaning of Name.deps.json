@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Numerology Meaning of Name/1.0.0": {
+        "runtime": {
+          "Numerology Meaning of Name.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Numerology Meaning of Name/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
