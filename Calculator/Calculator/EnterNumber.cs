@@ -4,10 +4,10 @@ public class EnterNumber
 {
     public double GetNumber()
     {
-        var oper = "";
+        double num = "";
 
-        Console.WriteLine("Enter Operator:  ");
-        oper = Console.ReadLine();
-        return oper;
+        Console.WriteLine("Enter a number:  ");
+        num = Console.ReadLine();
+        return num;
     }
 }
