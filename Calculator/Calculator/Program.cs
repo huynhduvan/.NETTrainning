@@ -7,31 +7,24 @@
             bool flag = true;
             var scrOper = new AskingOperator();
             var scrNum = new EnterNumber();
+            double sumNum;
+            int i = 0;
             
             Console.WriteLine("Calculator");
             
-            var Oper = scrOper.GetOperator();
-
-            for (int i = 0; i < 3; i++)
-            {
-                
-            }
-
             while (flag)
             {
-                Console.Write("Enter a Number: ");
-                double num1 = Convert.ToDouble(Console.ReadLine());
+                var Oper = scrOper.GetOperator(); 
+                double num1 = scrNum.GetNumber();
 
-                if (sumNum == 0)
+                if (i == 0)
                 {
-                    Console.Write("Enter a Number: ");
-                    double num = Convert.ToDouble (Console.ReadLine());
-                     num2 = num;
+                    double num2 = scrNum.GetNumber();
+                    i++;
                 }
                 
                 if (Oper == "+")
                 {
-                    
                     sumNum = num1 + num2;
                 } 
                 else if (Oper == "-")
@@ -54,10 +47,10 @@
 
                 Console.WriteLine("Sum:  {0}",sumNum);
 
-                Console.WriteLine("Quit (Q)? ");
+                Console.WriteLine("Press "C" to Continues? ");
                 string check = Console.ReadLine();
 
-                if (check == "Q" || check == "q")
+                if (check =! "C" || check != "c")
                 {
                     flag = false;
                 }
